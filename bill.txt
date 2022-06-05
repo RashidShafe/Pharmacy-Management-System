@@ -1,0 +1,10 @@
+			M&M Pharma Ltd.
+		 	    Sylhet
+==============================
+Customer name:aaa
+------------------------------
+Name		 Type		Qty.	Price
+Paracetamol 500mg	Tablet	2	2.0
+
+------------------------------
+				Total: 2.0
